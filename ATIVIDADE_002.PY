@@ -6,9 +6,7 @@ os.system ("cls")
 # HOSPITAL VIDA PLENA - SISTEMA DE AGENDAMENTO DE EXAMES 
 # DESENVOLVEDOR: Fernanda santos da silva 
 
-# Declaração dos vetores (listas) com os dados dos exames
-# Estrutura: [Código, Nome do Exame, Preço]
-# Inicialização dos "Vetores" (Listas) com os dados dos exames
+# listas com os dados dos exames
 # Seguindo a sugestão da atividade
 codigos_disponiveis = [1, 2, 3, 4, 5, 6, 7]
 nomes_exames = [
